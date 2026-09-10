@@ -30,7 +30,7 @@
 │  Orçamento        Contexto macro     Tempo real        Otimizada │
 └─────────────────────────────────────────────────────────────────┘
                               ↓
-                    💰 MONETIZA (Afiliados + Premium + B2B)
+                
 ```
 
 ### Diferenciais Competitivos
@@ -102,50 +102,9 @@ DIA 4: PROTOTIPAR → n8n workflows funcionais, DB schema, prompts
 DIA 5: TESTAR     → Entrevistas (n=12), questionnaire (n=150+), validação
 ```
 
-### Resultados da Validação (MicroFish #1)
 
-| Métrica | Target | Alcançado | Status |
-|---------|--------|-----------|--------|
-| Entrevistas qualitativas | 10 | **12** | ✅ |
-| Questionário quantitativo | 100 | **157** | ✅ |
-| Intenção de uso (top-2 box) | >60% | **73%** | ✅ |
-| WTP médio (R$/mês) | >R$ 15 | **R$ 28,40** | ✅ |
-| NPS estimado | >30 | **42** | ✅ |
-| Técnico: n8n workflows funcionais | 3 | **5** | ✅ |
 
 > **Insight-chave**: 68% preferem WhatsApp nativo vs app próprio. 81% pagariam por "economia automática sem pensar".
-
----
-
-## 🚀 Roadmap
-
-### Fase 0: Fundação ✅ **CONCLUÍDA** (Semanas 1-2)
-- [x] MicroFish Methodology aplicada
-- [x] Questionário otimizado (157 respostas)
-- [x] Arquitetura técnica definida
-- [x] Schema DB + Seeds (afiliados)
-- [x] Prompts base + System prompts
-
-### Fase 1: MVP WhatsApp (Semanas 3-6) 🔄 **EM ANDAMENTO**
-- [ ] Evolution API + n8n em produção (Oracle Cloud K3s)
-- [ ] Agente coletor de perfil de viagem
-- [ ] Motor DCA + Mix por país (EUA, Europa, Argentina, Japão)
-- [ ] Alertas trailing stop + notificações push
-- [ ] Dashboard Grafana (custo/token, latência, conversão)
-- [ ] Testes de carga (100 usuários simultâneos)
-
-### Fase 2: Monetização (Semanas 7-12)
-- [ ] Integração afiliados (Nomad, Wise, Avenue, Western Union)
-- [ ] Plano Premium R$ 29,90/mês (DCA ilimitado + alertas avançados)
-- [ ] Curso "Câmbio Inteligente" (Hotmart) - R$ 197
-- [ ] Programa de indicação (viral loop)
-- [ ] Meta: **R$ 95k MRR mês 6**
-
-### Fase 3: B2B White-label (Mês 6+)
-- [ ] API para bancos/fintechs embarcarem CambioBot
-- [ ] Customização de marca, fluxos, comissionamento
-- [ ] Compliance Open Banking / LGPD ready
-- [ ] Meta: **R$ 580k MRR mês 12**
 
 ---
 
@@ -335,15 +294,6 @@ git push origin feature/nova-funcionalidade
 📧 Engenheiro de IA / Tech Lead Automação & IA
 
 > **Especialista em**: LangChain, LangGraph, CrewAI, LlamaIndex, Vertex AI/Gemini, FastAPI, MLOps/LLMOps, RAG, Neo4j, Observabilidade (LangFuse, Grafana), Open Banking, Fintech.
-
----
-
-## 🙏 Agradecimentos
-
-- Comunidade **n8n** e **Evolution API** pela base técnica
-- **LangChain/LangGraph** pela orquestração de agentes
-- **Supabase/Oracle Cloud** pela infraestrutura acessível
-- Todos os **157 respondentes** do questionário de validação
 
 ---
 
