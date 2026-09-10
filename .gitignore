@@ -22,11 +22,43 @@ Thumbs.db
 .env
 .env.local
 *.env
+.env.*.local
 
 # Logs
 *.log
+logs/
 
 # Build outputs
 dist/
 build/
 *.egg-info/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# TradingAgents
+.tradingagents/
+
+# Alembic
+alembic/versions/
+
+# Docker
+.docker/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets (never commit)
+*.pem
+*.key
+*.crt
+secrets/
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
