@@ -1,0 +1,1 @@
+# CambioBot\n\nAgente inteligente de otimizacao cambial para viagens via WhatsApp.
