@@ -1,4 +1,4 @@
-# CambioBot 🤖💱
+# CambioBot 
 
 > **Agente Inteligente de Otimização Cambial para Viajantes via WhatsApp**
 > 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 O Problema
+ O Problema
 
 | Métrica | Valor | Fonte |
 |---------|-------|-------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 💡 A Solução
+ A Solução
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏗️ Arquitetura Técnica
+ Arquitetura Técnica
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 MicroFish Methodology
+ MicroFish Methodology
 
 Metodologia proprietária de **validação de produto em 5 dias** (inspirada no Design Sprint + Lean Startup):
 
@@ -108,7 +108,7 @@ DIA 5: TESTAR     → Entrevistas (n=12), questionnaire (n=150+), validação
 
 ---
 
-## 📁 Estrutura do Projeto
+ Estrutura do Projeto
 
 ```
 agente_convert_moeda_fintech/
@@ -145,7 +145,7 @@ agente_convert_moeda_fintech/
 
 ---
 
-## 🛠️ Setup Local
+ Setup Local
 
 ### Pré-requisitos
 - Docker + Docker Compose
@@ -153,7 +153,7 @@ agente_convert_moeda_fintech/
 - Node.js 20+ (para n8n local)
 - Conta Evolution API (ou instância local)
 
-### Início Rápido
+ Início Rápido
 
 ```bash
 # Clone
@@ -198,7 +198,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 
 ---
 
-## 📈 Métricas & Observabilidade
+ Métricas & Observabilidade
 
 ### Dashboards Grafana (incluídos)
 - **LLM Costs**: Custo por request, tokens, modelo, latência
@@ -216,7 +216,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 
 ---
 
-## 💰 Modelo de Negócio
+ Modelo de Negócio
 
 ### Projeção 12 Meses
 
@@ -237,7 +237,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 
 ---
 
-## 🔬 Pesquisa & Validação
+ Pesquisa & Validação
 
 ### Concorrência Direta
 | Player | Modelo | Gap CambioBot |
@@ -254,7 +254,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 
 ---
 
-## 🤝 Contribuindo
+ Contribuindo
 
 ```bash
 # 1. Fork o repo
@@ -286,7 +286,7 @@ git push origin feature/nova-funcionalidade
 
 ---
 
-## 👨‍💻 Autor
+ Autor
 
 **Luiz Dranka**  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-dranka-ba637620b/)  
